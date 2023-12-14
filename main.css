@@ -119,8 +119,13 @@ p {
     text-align: center;
 }
 
+p, img{
+    max-width: 80%;
+}
+
 #Elenc h1{
     color: rgb(255, 0, 0);
     text-align: center;
     margin-top: 20px;
 }
+
